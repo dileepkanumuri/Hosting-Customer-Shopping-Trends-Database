@@ -1,3 +1,4 @@
 # requirements.txt
-psycopg2-binary==x.x.x
-sqlalchemy==x.x.x
+psycopg2-binary==2.9.3
+sqlalchemy==1.4.27
+
